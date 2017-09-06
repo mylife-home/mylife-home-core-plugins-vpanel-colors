@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Mylife Home Core Plugin: VPanel Colors",
   "main": "index.js",
-  "repository": "https://github.com/vincent-tr/mylife-home-core-plugins-vpanel-colors",
+  "repository": "https://github.com/mylife-home/mylife-home-core-plugins-vpanel-colors",
   "author": "Vincent Trumpff",
   "dependencies": {
   },
